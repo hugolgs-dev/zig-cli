@@ -1,0 +1,1 @@
+Some notes I'm taking to not overload the code
